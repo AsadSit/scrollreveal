@@ -15,6 +15,7 @@ export default {
 	desktop: true,
 	mobile: true,
 	reset: false,
+	clean: true,
 	useDelay: 'always',
 	viewFactor: 0.0,
 	viewOffset: {
